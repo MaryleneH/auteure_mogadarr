@@ -8,7 +8,6 @@ format:
     page-layout: full
     smooth-scroll: true
     include-after-body: includes/footer.html
-engine: knitr
 ---
 
 # Bienvenue dans l'univers de **Mogadarr**
