@@ -3,7 +3,7 @@ title: "Mogadarr - Plume de New Romance"
 format:
   html:
     theme: lux
-    css: styles_cards_modernes.css
+    css: styles.css
     toc: false
     page-layout: full
     smooth-scroll: true
