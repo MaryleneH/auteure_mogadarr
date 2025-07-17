@@ -20,7 +20,7 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 
 :::
 ::: {.g-col-6 .text-center}
-![](images/mogadarr.png){width="520" class="rounded shadow"}
+![](images/Mogadarr.png){width="520" class="rounded shadow"}
 :::
 :::
 
@@ -50,7 +50,7 @@ Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité
 
 ::: {.g-col}
 ::: {.card card-modern}
-![Brûlure Secrète](images/brulure_secrete.jpg)
+![Brûlure Secrète](images/brulure_secrete.png)
 
 **Brûlure Secrète**
 
