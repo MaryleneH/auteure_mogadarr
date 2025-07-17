@@ -5,7 +5,7 @@ website:
   navbar:
     background: light
     logo: images/icon-mogadarr-navbar.png
-    height: 72px
+    height: 78px
     left:
       - href: index.qmd
         text: Home
