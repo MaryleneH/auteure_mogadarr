@@ -26,12 +26,6 @@ table img {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 
-/* Agrandir image mogadarr */
-img[src*="mogadarr.png"] {
-  width: 650px !important;
-  max-width: 100%;
-  height: auto;
-}
 
 /* Cards Quarto personnalisées */
 .card {
