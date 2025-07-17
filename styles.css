@@ -1,80 +1,73 @@
-/* Titre principal */
-h1 {
-  color: #b76e79; /* vieux rose moderne */
-  font-family: "Playfair Display", serif;
-  font-weight: 700;
-  font-size: 2.5rem;
-}
-
-/* Table bannière image + intro */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 2rem;
-}
-
-table td, table th {
-  border: none;
-  padding: 1rem;
-  vertical-align: middle;
-}
-
-table img {
-  max-width: 100%;
-  height: auto;
+/* Style général */
+.card-modern {
+  background-color: #fff;
   border-radius: 1rem;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-}
-
-
-/* Cards Quarto personnalisées */
-.card {
-  border-radius: 12px;
-  border: none;
-  background: #ffffff;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
   padding: 1.5rem;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: left;
+  font-family: 'Segoe UI', Roboto, sans-serif;
 }
 
-.card:hover {
-  transform: scale(1.015);
+/* Survol */
+.card-modern:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
 }
 
-.card-title, .card h3 {
-  color: #b76e79;
-  font-weight: 600;
-  font-size: 1.2rem;
-}
-
-/* Grilles */
-.grid {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.grid .g-col {
-  padding: 1rem;
-}
-
-/* Bouton */
-.center-button {
-  text-align: center;
-  margin-top: 2rem;
-}
-
-.center-button .button {
-  background-color: #b76e79;
-  color: white;
-  border: none;
-  border-radius: 30px;
-  padding: 0.75rem 2rem;
+/* Titre des cards */
+.card-modern .card-title {
+  font-size: 1.5rem;
+  color: #C37A9F; /* vieux rose moderne */
+  margin-bottom: 0.75rem;
   font-weight: bold;
+}
+
+/* Images d’en-tête */
+.card-modern img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+/* Liste dans les cards */
+.card-modern ul {
+  padding-left: 1.2rem;
+}
+
+.card-modern li {
+  margin-bottom: 0.5rem;
+  list-style-type: "› ";
+  color: #333;
+}
+
+/* Bouton centré */
+.center-button .button {
+  background-color: #C37A9F;
+  color: #fff;
+  padding: 0.8rem 1.4rem;
+  border: none;
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  font-weight: 500;
   text-decoration: none;
   transition: background-color 0.3s ease;
 }
 
 .center-button .button:hover {
-  background-color: #a25c6a;
+  background-color: #b2658d;
+}
+
+/* Bannière image de présentation */
+img[alt="Mogadarr"] {
+  border-radius: 1rem;
+  max-width: 650px;
+  height: auto;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
 }
