@@ -11,78 +11,78 @@ format:
     base-url: /auteure_mogadarr/
 ---
 
-<div class="banner">
-  <img src="images/Mogadarr.png" alt="Mogadarr" class="banner-img" />
-  <div class="banner-text">
-    <h2>Bienvenue dans l'univers de <strong>Mogadarr</strong></h2>
-    <p>Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de <em>New Romance</em>, donne vie à des héros inoubliables et des histoires qui font battre le cœur.</p>
-  </div>
-</div>
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------+
+| <div>                                                                                                                                                                                                         | ![](images/mogadarr.png){width="750"} |
+|                                                                                                                                                                                                               |                                       |
+| # Bienvenue dans l'univers de *Mogadarr*                                                                                                                                                                      |                                       |
+|                                                                                                                                                                                                               |                                       |
+| Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de **New Romance**, donne vie à des héros inoubliables et des histoires qui font battre le cœur. |                                       |
+|                                                                                                                                                                                                               |                                       |
+| </div>                                                                                                                                                                                                        |                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------+
 
----
+------------------------------------------------------------------------
 
-## Qui est Mogadarr&nbsp;?
+## Qui est Mogadarr ?
 
-:::{.grid columns=1}
-::: {.g-col}
+::: {.grid columns="1"}
+::: g-col
 ::: {.card title="Une auteure au cœur vibrant" image="images/icon-heart.png"}
-*Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.*
+Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.
 :::
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ## Ses romans
 
-:::{.grid columns=3}
-
-::: {.g-col}
+::: {.grid columns="3"}
+::: g-col
 ::: {.card title="Brûlure Secrète" image="images/brulure_secrete.jpg"}
-<em>Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.</em>
+![](images/brulure_secrete.png){width="87"} Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.
 :::
 :::
 
-::: {.g-col}
+::: g-col
 ::: {.card title="Sous la pluie de tes promesses" image="images/pluie_promesses.jpg"}
-<em>Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent.</em>
+Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent.
 :::
 :::
 
-::: {.g-col}
+::: g-col
 ::: {.card title="L'étreinte du hasard" image="images/etreinte_hasard.jpg"}
-<em>Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses.</em>
+Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses.
+:::
 :::
 :::
 
-:::
-
----
+------------------------------------------------------------------------
 
 ## Suivre Mogadarr
 
-:::{.grid columns=1}
-::: {.g-col}
+::: {.grid columns="1"}
+::: g-col
 ::: {.card title="Restez connectés" image="images/icon-social.png"}
-- **Instagram** : [@mogadarr_romance](https://instagram.com/mogadarr_romance)
-- **Goodreads** : [Mogadarr](https://goodreads.com)
-- **Newsletter** : Recevez les exclus et actus en avant-première.
+-   **Instagram** : [\@mogadarr_romance](https://instagram.com/mogadarr_romance)
+-   **Goodreads** : [Mogadarr](https://goodreads.com)
+-   **Newsletter** : Recevez les exclus et actus en avant-première.
 :::
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ## Contact & Projets
 
-:::{.grid columns=1}
-::: {.g-col}
+::: {.grid columns="1"}
+::: g-col
 ::: {.card title="Entrer en contact" image="images/icon-mail.png"}
-<em>Envie de proposer une interview, une collaboration ou une rencontre littéraire&nbsp;? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.</em>
+Envie de proposer une interview, une collaboration ou une rencontre littéraire ? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.
 :::
 :::
 :::
 
-<div class="center-button">
-  <a href="mailto:mogadarr.contact@example.com" class="button">Contacter l’auteure</a>
-</div>
+::: center-button
+<a href="mailto:mogadarr@gmail.com" class="button">Contacter l’auteure</a>
+:::
