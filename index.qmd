@@ -21,7 +21,10 @@ format:
 
 ## 🌟 Qui est Mogadarr ?
 
-<p class="rubrique">Auteure de romances contemporaines où se mêlent émotions, sensualité et héros au charisme débordant, Mogadarr captive ses lectrices depuis ses premiers chapitres publiés. Elle puise son inspiration dans les instants suspendus du quotidien, les liens invisibles entre deux âmes, et le pouvoir des mots pour déclencher les frissons.</p>
+<section class="rubrique">
+  <h3>Une auteure au cœur vibrant</h3>
+  <p><em>Auteure de romances contemporaines où se mêlent émotions, sensualité et héros au charisme débordant, Mogadarr captive ses lectrices depuis ses premiers chapitres publiés. Elle puise son inspiration dans les instants suspendus du quotidien, les liens invisibles entre deux âmes, et le pouvoir des mots pour déclencher les frissons.</em></p>
+</section>
 
 ---
 
@@ -29,18 +32,18 @@ format:
 
 <section class="books">
   <div class="book">
-    <h3><em>"Brûlure Secrète"</em></h3>
-    <p>Une romance interdite entre une journaliste ambitieuse et un boxeur au passé trouble. Entre passion et secrets, leur monde vacille.</p>
+    <h3>"Brûlure Secrète"</h3>
+    <p><em>Une romance interdite entre une journaliste ambitieuse et un boxeur au passé trouble. Entre passion et secrets, leur monde vacille.</em></p>
   </div>
 
   <div class="book">
-    <h3><em>"Sous la pluie de tes promesses"</em></h3>
-    <p>Deux ex que le destin rapproche une dernière fois. Mais peut-on récrire l'amour quand le passé saigne encore ?</p>
+    <h3>"Sous la pluie de tes promesses"</h3>
+    <p><em>Deux ex que le destin rapproche une dernière fois. Mais peut-on récrire l'amour quand le passé saigne encore ?</em></p>
   </div>
 
   <div class="book">
-    <h3><em>"L'étreinte du hasard"</em></h3>
-    <p>Quand une rencontre fortuite dans un train bouleverse deux vies... une histoire à la fois douce et volcanique.</p>
+    <h3>"L'étreinte du hasard"</h3>
+    <p><em>Quand une rencontre fortuite dans un train bouleverse deux vies... une histoire à la fois douce et volcanique.</em></p>
   </div>
 </section>
 
@@ -56,6 +59,9 @@ format:
 
 ## ✨ Contact & Projets
 
-<p class="rubrique">Envie de collaborer ? De proposer une interview, une rencontre ou de participer à un salon ? Retrouvez toutes les informations de contact dans la section <strong>"Contact"</strong> ci-dessous.</p>
+<section class="rubrique">
+  <h3>Entrer en contact</h3>
+  <p><em>Envie de collaborer ? De proposer une interview, une rencontre ou de participer à un salon ? Retrouvez toutes les informations de contact dans la section ci-dessous.</em></p>
+</section>
 
-<a href="mailto:mogadarr.contact@example.com" class="button">Contacter l’auteure</a>
+<a href="mailto:mogadarr@gmail.com" class="button">Contacter l’auteure</a>
