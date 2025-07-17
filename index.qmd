@@ -3,7 +3,7 @@ title: "Mogadarr - Plume de New Romance"
 format:
   html:
     theme: lux
-    css: styles_bootstrap_like.css
+    css: styles_cards_modernes.css
     toc: false
     page-layout: full
     smooth-scroll: true
@@ -11,76 +11,67 @@ format:
     base-url: /auteure_mogadarr/
 ---
 
-# <span style="color: #444">Bienvenue dans l'univers de <strong>Mogadarr</strong></span>
+::: {.card appearance="image" image-url="Mogadarr.png"}
+## Bienvenue dans l'univers de __Mogadarr__
 
-<div class="hero-card">
-  <img src="Mogadarr.png" alt="Portrait de Mogadarr" class="hero-img">
-  <div class="hero-text">
-    <p>Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de <strong>New Romance</strong>, donne vie à des héros inoubliables et des histoires qui font battre le cœur.</p>
-  </div>
-</div>
+Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de *New Romance*, donne vie à des héros inoubliables et des histoires qui font battre le cœur.
+:::
 
 ---
 
-## <span class="section-title">Qui est Mogadarr&nbsp;?</span>
+## Qui est Mogadarr&nbsp;?
 
-<div class="info-card">
-  <img src="icon-heart.png" class="icon">
-  <div>
-    <h3>Une auteure au cœur vibrant</h3>
-    <p><em>Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.</em></p>
-  </div>
-</div>
+::: {.card image-url="icon-heart.png" layout-align="left"}
+### Une auteure au cœur vibrant
+
+*Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.*
+:::
 
 ---
 
-## <span class="section-title">Ses romans</span>
+## Ses romans
 
-<div class="card-grid">
-  <div class="book-card">
-    <img src="brulure_secrete.jpg" alt="Brûlure Secrète">
-    <h4>Brûlure Secrète</h4>
-    <p>Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.</p>
-  </div>
-  <div class="book-card">
-    <img src="pluie_promesses.jpg" alt="Sous la pluie de tes promesses">
-    <h4>Sous la pluie de tes promesses</h4>
-    <p>Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent.</p>
-  </div>
-  <div class="book-card">
-    <img src="etreinte_hasard.jpg" alt="L'étreinte du hasard">
-    <h4>L'étreinte du hasard</h4>
-    <p>Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses.</p>
-  </div>
-</div>
+:::{.cards columns=3}
 
----
+::: {.card image-url="brulure_secrete.jpg"}
+#### Brûlure Secrète
+*Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.*
+:::
 
-## <span class="section-title">Suivre Mogadarr</span>
+::: {.card image-url="pluie_promesses.jpg"}
+#### Sous la pluie de tes promesses
+*Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent.*
+:::
 
-<div class="info-card">
-  <img src="icon-social.png" class="icon">
-  <div>
-    <ul class="styled-list">
-      <li><strong>Instagram :</strong> <a href="https://instagram.com/mogadarr_romance" target="_blank">@mogadarr_romance</a></li>
-      <li><strong>Goodreads :</strong> <a href="https://goodreads.com" target="_blank">Mogadarr</a></li>
-      <li><strong>Newsletter :</strong> Recevez les exclus et actus en avant-première.</li>
-    </ul>
-  </div>
-</div>
+::: {.card image-url="etreinte_hasard.jpg"}
+#### L'étreinte du hasard
+*Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses.*
+:::
+
+:::
 
 ---
 
-## <span class="section-title">Contact & Projets</span>
+## Suivre Mogadarr
 
-<div class="info-card">
-  <img src="icon-mail.png" class="icon">
-  <div>
-    <h3>Entrer en contact</h3>
-    <p><em>Envie de proposer une interview, une collaboration ou une rencontre littéraire&nbsp;? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.</em></p>
-  </div>
-</div>
+::: {.card image-url="icon-social.png" layout-align="left"}
+### Restez connectés
+
+- **Instagram** : [@mogadarr_romance](https://instagram.com/mogadarr_romance)
+- **Goodreads** : [Mogadarr](https://goodreads.com)
+- **Newsletter** : Recevez les exclus et actus en avant-première.
+:::
+
+---
+
+## Contact & Projets
+
+::: {.card image-url="icon-mail.png" layout-align="left"}
+### Entrer en contact
+
+*Envie de proposer une interview, une collaboration ou une rencontre littéraire&nbsp;? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.*
+:::
 
 <div class="center-button">
-  <a href="mailto:mogadarr@gmail.com" class="button">Contacter l’auteure</a>
+  <a href="mailto:mogadarr.contact@example.com" class="button">Contacter l’auteure</a>
 </div>
