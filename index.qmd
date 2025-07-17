@@ -8,6 +8,7 @@ format:
     page-layout: full
     smooth-scroll: true
     include-after-body: includes/footer.html
+    base-url: /auteure_mogadarr/
 ---
 
 # Bienvenue dans l'univers de **Mogadarr**
