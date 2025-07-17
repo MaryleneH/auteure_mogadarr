@@ -11,16 +11,16 @@ format:
     base-url: /auteure_mogadarr/
 ---
 
-:::{.grid}
-::: {.g-col-7}
+:::{.grid .mt-4 .mb-4 .align-items-center}
+::: {.g-col-6}
 
 # Bienvenue dans l'univers de *Mogadarr*
 
 Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de **New Romance**, donne vie à des héros inoubliables et des histoires qui font battre le cœur.
 
 :::
-::: {.g-col-5}
-![](images/mogadarr.png){width="650"}
+::: {.g-col-6 .text-center}
+![](images/Mogadarr.png){width="520" class="rounded shadow"}
 :::
 :::
 
