@@ -11,28 +11,28 @@
     "href": "index.html#qui-est-mogadarr",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Qui est Mogadarr ?",
-    "text": "Qui est Mogadarr ?\n\n\n::: {.card card-modern title=“Une auteure au cœur vibrant” image=“images/icon-heart.png”} Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.\n\n\n:::"
+    "text": "Qui est Mogadarr ?\n\n\n::: {.card card-modern} \nUne auteure au cœur vibrant\nMogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.\n\n\n:::"
   },
   {
     "objectID": "index.html#ses-romans",
     "href": "index.html#ses-romans",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Ses romans",
-    "text": "Ses romans\n\n\n::: {.card card-modern title=“Brûlure Secrète” image=“images/brulure_secrete.jpg”} Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.\n\n\n\n::: {.card card-modern title=“Sous la pluie de tes promesses” image=“images/pluie_promesses.jpg”} Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent.\n\n:::\n\n::: {.card card-modern title=“L’étreinte du hasard” image=“images/etreinte_hasard.jpg”} Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses.\n\n:::\n:::"
+    "text": "Ses romans\n\n\n::: {.card card-modern} \nBrûlure Secrète\nUne journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.\n\n\n\n::: {.card card-modern} \nSous la pluie de tes promesses\nDeux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent.\n\n:::\n\n::: {.card card-modern} \nL’étreinte du hasard\nUne rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses.\n\n:::\n:::"
   },
   {
     "objectID": "index.html#suivre-mogadarr",
     "href": "index.html#suivre-mogadarr",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Suivre Mogadarr",
-    "text": "Suivre Mogadarr\n\n\n::: {.card card-modern title=“Restez connectés” image=“images/icon-social.png”} - Instagram : @mogadarr_romance - Goodreads : Mogadarr - Newsletter : Recevez les exclus et actus en avant-première.\n\n\n:::"
+    "text": "Suivre Mogadarr\n\n\n::: {.card card-modern} \nRestez connectés\n\nInstagram : @mogadarr_romance\nGoodreads : Mogadarr\nNewsletter : Recevez les exclus et actus en avant-première.\n\n\n\n:::"
   },
   {
     "objectID": "index.html#contact-projets",
     "href": "index.html#contact-projets",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Contact & Projets",
-    "text": "Contact & Projets\n\n\n::: {.card card-modern title=“Entrer en contact” image=“images/icon-mail.png”} Envie de proposer une interview, une collaboration ou une rencontre littéraire ? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.\n\n\n:::\n\nContacter l’auteure"
+    "text": "Contact & Projets\n\n\n::: {.card card-modern} \nEntrer en contact\nEnvie de proposer une interview, une collaboration ou une rencontre littéraire ? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.\n\n\n:::\n\nContacter l’auteure"
   },
   {
     "objectID": "about.html",
