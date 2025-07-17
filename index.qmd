@@ -1,0 +1,61 @@
+---
+title: "Mogadarr - Plume de New Romance"
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    include-after-body: includes/footer.html
+engine: knitr
+---
+
+# Bienvenue dans l'univers de **Mogadarr**
+
+<div class="intro">
+  <p>Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de <strong>New Romance</strong>, donne vie à des héros inoubliables et des histoires qui font battre le cœur.</p>
+</div>
+
+---
+
+## 🌟 Qui est Mogadarr ?
+
+<p class="rubrique">Auteure de romances contemporaines où se mêlent émotions, sensualité et héros au charisme débordant, Mogadarr captive ses lectrices depuis ses premiers chapitres publiés. Elle puise son inspiration dans les instants suspendus du quotidien, les liens invisibles entre deux âmes, et le pouvoir des mots pour déclencher les frissons.</p>
+
+---
+
+## 📚 Ses romans
+
+<section class="books">
+  <div class="book">
+    <h3><em>"Brûlure Secrète"</em></h3>
+    <p>Une romance interdite entre une journaliste ambitieuse et un boxeur au passé trouble. Entre passion et secrets, leur monde vacille.</p>
+  </div>
+
+  <div class="book">
+    <h3><em>"Sous la pluie de tes promesses"</em></h3>
+    <p>Deux ex que le destin rapproche une dernière fois. Mais peut-on récrire l'amour quand le passé saigne encore ?</p>
+  </div>
+
+  <div class="book">
+    <h3><em>"L'étreinte du hasard"</em></h3>
+    <p>Quand une rencontre fortuite dans un train bouleverse deux vies... une histoire à la fois douce et volcanique.</p>
+  </div>
+</section>
+
+---
+
+## 📱 Suivre Mogadarr
+
+- Instagram : [@mogadarr_romance](https://instagram.com/mogadarr_romance)
+- Goodreads : [Mogadarr](https://goodreads.com)
+- Newsletter : Inscrivez-vous pour recevoir ses nouveautés et exclus !
+
+---
+
+## ✨ Contact & Projets
+
+<p class="rubrique">Envie de collaborer ? De proposer une interview, une rencontre ou de participer à un salon ? Retrouvez toutes les informations de contact dans la section <strong>"Contact"</strong> ci-dessous.</p>
+
+<a href="mailto:mogadarr.contact@example.com" class="button">Contacter l’auteure</a>
