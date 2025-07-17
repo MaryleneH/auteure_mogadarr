@@ -31,72 +31,79 @@ h2, h3 {
   padding-right: 2rem;
 }
 
-/* --- CARDS générales --- */
-.card-grid.wider-cards {
+/* =======================
+   Global Layout
+======================= */
+.card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 1.8rem;
+  gap: 1.5rem;
+  margin-top: 1rem;
   margin-bottom: 2rem;
 }
 
+/* Largeur responsive (3 colonnes sur desktop) */
+.card-grid.wider-cards {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+/* =======================
+   Card Style
+======================= */
 .card {
   background-color: #ffffff;
-  padding: 2rem;
-  border-radius: 1.2rem;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  align-items: start;
   text-align: left;
+}
+
+.card:hover {
+  transform: translateY(-4px);
 }
 
 .card img {
   max-width: 100%;
   height: auto;
-  border-radius: 0.5rem;
-  margin-bottom: 1rem;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
 }
 
-.card h3 {
-  font-size: 1.4rem;
+/* =======================
+   Typography
+======================= */
+.card h3,
+.card h2,
+.card h4 {
+  color: #663a47; /* vieux rose moderne */
+  font-weight: 600;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  color: #5c3a4d;
 }
 
-/* --- Bouton de contact --- */
-.center-button {
-  text-align: center;
-  margin-top: 2rem;
+.card p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #333;
 }
 
-.center-button .button {
-  background-color: #e0aeb2;
-  color: white;
-  border: none;
-  padding: 0.8rem 1.6rem;
-  font-size: 1.1rem;
-  border-radius: 30px;
-  text-decoration: none;
-  transition: background-color 0.3s ease;
-}
-
-.center-button .button:hover {
-  background-color: #d88e96;
-}
-
-/* --- Responsive padding -- */
+/* =======================
+   Responsive tweaks
+======================= */
 @media (max-width: 768px) {
-  .grid.align-items-center .g-col-6:first-child {
-    padding-right: 0;
+  .card-grid.wider-cards {
+    grid-template-columns: 1fr;
   }
 
-  h1 {
-    font-size: 2rem;
-    text-align: center;
+  .grid .g-col-6 img {
+    width: 100% !important;
+    max-width: 100%;
   }
 
-  .card {
-    padding: 1.2rem;
+  .grid {
+    gap: 2rem;
   }
 }
