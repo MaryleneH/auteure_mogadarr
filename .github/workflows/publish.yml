@@ -1,20 +1,26 @@
-
-name: Publish to GitHub Pages
+name: Quarto Publish
 
 on:
   push:
     branches: [main]
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+
       - uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render site
-        run: quarto render
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          version: latest
+
+      - name: Render Quarto project
+        run: quarto render
+
+      - name: Publish to GitHub Pages 🚀
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
