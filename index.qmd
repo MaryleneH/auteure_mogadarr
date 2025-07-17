@@ -20,7 +20,7 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 
 :::
 ::: {.g-col-6 .text-center}
-![](images/Mogadarr.png){width="520" class="rounded shadow"}
+![](images/mogadarr.png){width="520" class="rounded shadow"}
 :::
 :::
 
@@ -30,9 +30,15 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 
 :::{.grid columns=1}
 ::: {.g-col}
-::: {.card card-modern title="Une auteure au cœur vibrant" image="images/icon-heart.png"}
+
+::: {.card card-modern}
+![Une auteure au cœur vibrant](images/icon-heart.png)
+
+**Une auteure au cœur vibrant**
+
 Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.
 :::
+
 :::
 :::
 
@@ -43,19 +49,31 @@ Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité
 :::{.grid columns=3}
 
 ::: {.g-col}
-::: {.card card-modern title="Brûlure Secrète" image="images/brulure_secrete.jpg"}
+::: {.card card-modern}
+![Brûlure Secrète](images/brulure_secrete.jpg)
+
+**Brûlure Secrète**
+
 Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.
 :::
 :::
 
 ::: {.g-col}
-::: {.card card-modern title="Sous la pluie de tes promesses" image="images/pluie_promesses.jpg"}
+::: {.card card-modern}
+![Sous la pluie de tes promesses](images/pluie_promesses.jpg)
+
+**Sous la pluie de tes promesses**
+
 Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent.
 :::
 :::
 
 ::: {.g-col}
-::: {.card card-modern title="L'étreinte du hasard" image="images/etreinte_hasard.jpg"}
+::: {.card card-modern}
+![L'étreinte du hasard](images/etreinte_hasard.jpg)
+
+**L'étreinte du hasard**
+
 Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses.
 :::
 :::
@@ -68,7 +86,11 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 :::{.grid columns=1}
 ::: {.g-col}
-::: {.card card-modern title="Restez connectés" image="images/icon-social.png"}
+::: {.card card-modern}
+![Restez connectés](images/icon-social.png)
+
+**Restez connectés**
+
 - **Instagram** : [@mogadarr_romance](https://instagram.com/mogadarr_romance)
 - **Goodreads** : [Mogadarr](https://goodreads.com)
 - **Newsletter** : Recevez les exclus et actus en avant-première.
@@ -82,7 +104,11 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 :::{.grid columns=1}
 ::: {.g-col}
-::: {.card card-modern title="Entrer en contact" image="images/icon-mail.png"}
+::: {.card card-modern}
+![Entrer en contact](images/icon-mail.png)
+
+**Entrer en contact**
+
 Envie de proposer une interview, une collaboration ou une rencontre littéraire&nbsp;? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.
 :::
 :::
