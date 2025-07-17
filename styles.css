@@ -1,76 +1,66 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;600&family=Cardo:wght@700&display=swap');
-
+/* ---- FOND GLOBAL ---- */
 body {
-  font-family: 'Raleway', sans-serif;
-  margin: 0;
-  padding: 0;
-  color: #222;
   background: url('mogadarr.png') no-repeat center center fixed;
   background-size: cover;
   background-attachment: fixed;
+  font-family: 'Raleway', sans-serif;
+  color: #2e2e2e;
 }
 
-/* Titres modernes et lisibles */
+/* ---- TITRES ---- */
 h1 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 2.5rem;
-  font-weight: 600;
-  text-align: center;
   color: #4a4a4a;
-  margin-top: 3rem;
+  font-weight: 600;
+  font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
-h2, h3 {
-  font-family: 'Cardo', serif;
-  text-transform: uppercase;
-  text-align: center;
+h2, h3, h4 {
   color: #5a5a5a;
-  margin: 2rem 0 1rem;
+  font-family: 'Cardo', serif;
 }
 
-/* Pour forcer le rendu des sections HTML dans Quarto */
-.books, .rubrique {
-  display: block;
-  width: 100%;
+/* ---- CARDS ---- */
+.card, .card-group > .card {
+  background: rgba(255, 255, 255, 0.88);
+  border-radius: 14px;
+  padding: 1.75rem;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #f0e0ea;
 }
 
-/* Conteneur stylisé pour livres */
-.books {
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+/* ---- CARD-GROUP STYLE ---- */
+.card-group {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1.5rem;
   justify-content: center;
-  padding: 2rem;
-  max-width: 1000px;
-  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
-.book {
+.card-group > .card {
   flex: 1 1 280px;
-  min-width: 260px;
-  background-color: rgba(255,255,255,0.95);
-  border: 1px solid #ddd;
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  transition: transform 0.3s ease;
+  max-width: 300px;
 }
 
-.book:hover {
-  transform: translateY(-5px);
-}
-
-.intro, .rubrique, footer {
-  background-color: rgba(255, 255, 255, 0.9);
-  margin: 2rem auto;
-  padding: 2rem;
-  max-width: 800px;
+/* ---- IMAGE PORTRAIT ---- */
+.intro img {
+  max-width: 250px;
   border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  float: right;
+  margin: 0 0 1rem 2rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
+/* ---- BOUTONS ---- */
 a.button {
   background-color: #8B004F;
   color: white;
@@ -88,9 +78,30 @@ a.button:hover {
   background-color: #650038;
 }
 
+/* ---- LIENS ---- */
+a {
+  color: #8B004F;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---- LISTES ---- */
+ul {
+  padding-left: 1.2rem;
+}
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* ---- FOOTER ---- */
 footer {
   text-align: center;
   font-size: 0.85rem;
   color: #333;
   background-color: rgba(255,255,255,0.8);
+  padding: 1.5rem;
+  margin-top: 3rem;
+  border-top: 1px solid #eee;
 }
