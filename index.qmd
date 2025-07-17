@@ -73,5 +73,5 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 :::
 
 <div class="center-button">
-  <a href="mailto:mogadarr.contact@example.com" class="button">Contacter l’auteure</a>
+  <a href="mailto:mogadarr@gmail.com" class="button">Contacter l’auteure</a>
 </div>
