@@ -4,6 +4,9 @@ project:
 website:
   title: "auteure_mogadarr"
   navbar:
+    background: light
+    logo: images/icon-mogadarr-navbar.png
+    height: 72px
     left:
       - href: index.qmd
         text: Home
