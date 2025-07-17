@@ -4,35 +4,35 @@
     "href": "index.html",
     "title": "Mogadarr - Plume de New Romance",
     "section": "",
-    "text": "::: {.card level2 appearance=“image” image-url=“images/Mogadarr.png”} ## Bienvenue dans l’univers de Mogadarr\nPlongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de New Romance, donne vie à des héros inoubliables et des histoires qui font battre le cœur. :::"
+    "text": "Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de New Romance, donne vie à des héros inoubliables et des histoires qui font battre le cœur."
   },
   {
     "objectID": "index.html#qui-est-mogadarr",
     "href": "index.html#qui-est-mogadarr",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Qui est Mogadarr ?",
-    "text": "Qui est Mogadarr ?\n::: {.card level2 image-url=“images/icon-heart.png” layout-align=“left”} ### Une auteure au cœur vibrant\nMogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page. :::"
+    "text": "Qui est Mogadarr ?\n::: {.card level2} ### Une auteure au cœur vibrant\n\nMogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page. :::"
   },
   {
     "objectID": "index.html#ses-romans",
     "href": "index.html#ses-romans",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Ses romans",
-    "text": "Ses romans\n\n::: {.card level2 image-url=“images/brulure_secrete.jpg”} #### Brûlure Secrète Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.\n\n::: {.card level2 image-url=“images/pluie_promesses.jpg”} #### Sous la pluie de tes promesses Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent. :::\n::: {.card level2 image-url=“images/etreinte_hasard.jpg”} #### L’étreinte du hasard Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses. :::\n:::"
+    "text": "Ses romans\n\n::: {.card level2}  #### Brûlure Secrète Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent et dangereux.\n\n::: {.card level2}  #### Sous la pluie de tes promesses Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes fois qui comptent. :::\n::: {.card level2}  #### L’étreinte du hasard Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin fait bien les choses. :::\n:::"
   },
   {
     "objectID": "index.html#suivre-mogadarr",
     "href": "index.html#suivre-mogadarr",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Suivre Mogadarr",
-    "text": "Suivre Mogadarr\n::: {.card level2 image-url=“images/icon-social.png” layout-align=“left”} ### Restez connectés\n\nInstagram : @mogadarr_romance\nGoodreads : Mogadarr\nNewsletter : Recevez les exclus et actus en avant-première. :::"
+    "text": "Suivre Mogadarr\n::: {.card level2}  ### Restez connectés\n\nInstagram : @mogadarr_romance\nGoodreads : Mogadarr\nNewsletter : Recevez les exclus et actus en avant-première. :::"
   },
   {
     "objectID": "index.html#contact-projets",
     "href": "index.html#contact-projets",
     "title": "Mogadarr - Plume de New Romance",
     "section": "Contact & Projets",
-    "text": "Contact & Projets\n::: {.card level2 image-url=“images/icon-mail.png” layout-align=“left”} ### Entrer en contact\nEnvie de proposer une interview, une collaboration ou une rencontre littéraire ? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux. :::\n\nContacter l’auteure"
+    "text": "Contact & Projets\n::: {.card level2}\n ### Entrer en contact\nEnvie de proposer une interview, une collaboration ou une rencontre littéraire ? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.\n:::\n\nContacter l’auteure"
   },
   {
     "objectID": "about.html",
