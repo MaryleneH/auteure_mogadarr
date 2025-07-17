@@ -3,7 +3,7 @@ title: "Mogadarr - Plume de New Romance"
 format:
   html:
     theme: lux
-    css: styles.css
+    css: styles_cards_modernes.css
     toc: false
     page-layout: full
     smooth-scroll: true
@@ -28,7 +28,7 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 
 ## Qui est Mogadarr&nbsp;?
 
-:::{.grid .card-grid columns=1}
+:::{.grid .card-grid .wider-cards columns=1}
 ::: {.card}
 ![Une auteure au cœur vibrant](images/icon-heart.png)
 
@@ -42,7 +42,7 @@ Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité
 
 ## Ses romans
 
-:::{.grid .card-grid columns=3}
+:::{.grid .card-grid .wider-cards columns=3}
 
 ::: {.card}
 ![Brûlure Secrète](images/brulure_secrete.png)
@@ -74,7 +74,7 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ## Suivre Mogadarr
 
-:::{.grid .card-grid columns=1}
+:::{.grid .card-grid .wider-cards columns=1}
 ::: {.card}
 ![Restez connectés](images/icon-social.png)
 
@@ -90,7 +90,7 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ## Contact & Projets
 
-:::{.grid .card-grid columns=1}
+:::{.grid .card-grid .wider-cards columns=1}
 ::: {.card}
 ![Entrer en contact](images/icon-mail.png)
 

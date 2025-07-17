@@ -1,108 +1,102 @@
-/* ====== TYPOGRAPHIE ====== */
+/* --- Générale --- */
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #fff;
   color: #333;
 }
 
+/* --- Titres --- */
 h1 {
-  font-family: 'Playfair Display', serif;
-  font-size: 2.5rem;
-  color: #b66c82; /* vieux rose moderne */
+  color: #ad5c6f; /* Vieux rose moderne */
+  font-size: 2.4rem;
+  font-weight: 700;
   margin-bottom: 1rem;
 }
 
-h2, h3, h4 {
-  font-family: 'Playfair Display', serif;
-  color: #b66c82;
+h2, h3 {
+  color: #333;
+  font-weight: 600;
+  margin-top: 1rem;
 }
 
-p {
-  line-height: 1.6;
+/* --- BANNIÈRE (image + texte) --- */
+.grid.align-items-center .g-col-6 img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
 }
 
-/* ====== GRILLE & STRUCTURE ====== */
-.grid {
-  gap: 2rem;
-  margin-top: 1.5rem;
+.grid.align-items-center .g-col-6:first-child {
+  padding-right: 2rem;
 }
 
-.card-grid.columns-3 {
+/* --- CARDS générales --- */
+.card-grid.wider-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.8rem;
+  margin-bottom: 2rem;
 }
 
-/* ====== STYLES DES CARDS ====== */
 .card {
-  background: #fff;
-  border: 1px solid #eee;
-  border-radius: 18px;
-  padding: 1.8rem;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 1.2rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  height: 100%;
-}
-
-.card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
+  justify-content: flex-start;
+  text-align: left;
 }
 
 .card img {
-  width: 100%;
-  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
   margin-bottom: 1rem;
 }
 
 .card h3 {
-  font-size: 1.35rem;
-  text-align: center;
+  font-size: 1.4rem;
+  margin-top: 0.5rem;
   margin-bottom: 0.5rem;
+  color: #5c3a4d;
 }
 
-.card p, .card li {
-  font-size: 1rem;
-  color: #444;
-}
-
-/* ====== BOUTON ====== */
+/* --- Bouton de contact --- */
 .center-button {
   text-align: center;
   margin-top: 2rem;
 }
 
 .center-button .button {
-  background-color: #b66c82;
+  background-color: #e0aeb2;
   color: white;
-  padding: 0.75rem 1.8rem;
-  font-size: 1rem;
+  border: none;
+  padding: 0.8rem 1.6rem;
+  font-size: 1.1rem;
   border-radius: 30px;
   text-decoration: none;
   transition: background-color 0.3s ease;
 }
 
 .center-button .button:hover {
-  background-color: #9e566c;
+  background-color: #d88e96;
 }
 
-/* ====== IMAGE BANNIÈRE ====== */
-img.rounded.shadow {
-  border-radius: 12px;
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
-  max-width: 100%;
-  height: auto;
-}
-
-/* ====== RESPONSIVE ====== */
+/* --- Responsive padding -- */
 @media (max-width: 768px) {
-  .card-grid.columns-3 {
-    grid-template-columns: 1fr;
+  .grid.align-items-center .g-col-6:first-child {
+    padding-right: 0;
   }
 
   h1 {
     font-size: 2rem;
+    text-align: center;
+  }
+
+  .card {
+    padding: 1.2rem;
   }
 }
