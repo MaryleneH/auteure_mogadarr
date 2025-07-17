@@ -11,65 +11,65 @@ format:
     base-url: /auteure_mogadarr/
 ---
 
-# Bienvenue dans l'univers de **Mogadarr**
+# <span style="color: #555">Bienvenue dans l'univers de <strong>Mogadarr</strong></span>
 
-<div class="intro">
-  <img src="Mogadarr.png" alt="Portrait de Mogadarr" style="max-width: 250px; border-radius: 12px; float: right; margin: 0 0 1rem 2rem; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <p>Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de <strong>New Romance</strong>, donne vie à des héros inoubliables et des histoires qui font battre le cœur.</p>
-</div>
-
----
-
-## 🌟 Qui est Mogadarr ?
-
-<section class="rubrique">
-  <h3 class="rubrique-title">Une auteure au cœur vibrant</h3>
-  <p><em>Auteure de romances contemporaines où se mêlent émotions, sensualité et héros au charisme débordant, Mogadarr captive ses lectrices depuis ses premiers chapitres publiés. Elle puise son inspiration dans les instants suspendus du quotidien, les liens invisibles entre deux âmes, et le pouvoir des mots pour déclencher les frissons.</em></p>
-</section>
+:::{.card style="padding: 2rem; background-color: rgba(255,255,255,0.9);"}
+<img src="Mogadarr.png" alt="Portrait de Mogadarr" style="max-width: 250px; border-radius: 12px; float: right; margin: 0 0 1rem 2rem; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de **New Romance**, donne vie à des héros inoubliables et des histoires qui font battre le cœur.
+:::
 
 ---
 
-## 📚 Ses romans
+## <span style="color: #555">🌟 Qui est Mogadarr ?</span>
 
-<section class="books">
-  <div class="book">
-    <h3>Brûlure Secrète</h3>
-    <p><em>Une romance interdite entre une journaliste ambitieuse et un boxeur au passé trouble. Entre passion et secrets, leur monde vacille.</em></p>
-  </div>
-
-  <div class="book">
-    <h3>Sous la pluie de tes promesses</h3>
-    <p><em>Deux ex que le destin rapproche une dernière fois. Mais peut-on récrire l'amour quand le passé saigne encore ?</em></p>
-  </div>
-
-  <div class="book">
-    <h3>L'étreinte du hasard</h3>
-    <p><em>Quand une rencontre fortuite dans un train bouleverse deux vies... une histoire à la fois douce et volcanique.</em></p>
-  </div>
-</section>
+:::{.card}
+### Une auteure au cœur vibrant
+*<span style="display: block; margin-top: 1rem;">Auteure de romances contemporaines où se mêlent émotions, sensualité et héros au charisme débordant, Mogadarr captive ses lectrices depuis ses premiers chapitres publiés. Elle puise son inspiration dans les instants suspendus du quotidien, les liens invisibles entre deux âmes, et le pouvoir des mots pour déclencher les frissons.</span>*
+:::
 
 ---
 
-## 📱 Suivre Mogadarr
+## <span style="color: #555">📚 Ses romans</span>
 
-<section class="rubrique">
-  <h3 class="rubrique-title">Restez connectés</h3>
-  <ul>
-    <li>Instagram : <a href="https://instagram.com/mogadarr_romance" target="_blank">@mogadarr_romance</a></li>
-    <li>Goodreads : <a href="https://goodreads.com" target="_blank">Mogadarr</a></li>
-    <li>Newsletter : Inscrivez-vous pour recevoir ses nouveautés et exclus !</li>
-  </ul>
-</section>
+:::{.card-group}
+::: {.card}
+#### Brûlure Secrète
+*Une romance interdite entre une journaliste ambitieuse et un boxeur au passé trouble. Entre passion et secrets, leur monde vacille.*
+:::
+
+::: {.card}
+#### Sous la pluie de tes promesses
+*Deux ex que le destin rapproche une dernière fois. Mais peut-on récrire l'amour quand le passé saigne encore ?*
+:::
+
+::: {.card}
+#### L'étreinte du hasard
+*Quand une rencontre fortuite dans un train bouleverse deux vies... une histoire à la fois douce et volcanique.*
+:::
+:::
 
 ---
 
-## ✨ Contact & Projets
+## <span style="color: #555">📱 Suivre Mogadarr</span>
 
-<section class="rubrique">
-  <h3 class="rubrique-title">Entrer en contact</h3>
-  <p><em>Envie de collaborer ? De proposer une interview, une rencontre ou de participer à un salon ? Retrouvez toutes les informations de contact dans la section ci-dessous.</em></p>
-</section>
+:::{.card}
+### Restez connectés
+<ul>
+  <li>Instagram : <a href="https://instagram.com/mogadarr_romance" target="_blank">@mogadarr_romance</a></li>
+  <li>Goodreads : <a href="https://goodreads.com" target="_blank">Mogadarr</a></li>
+  <li>Newsletter : Inscrivez-vous pour recevoir ses nouveautés et exclus !</li>
+</ul>
+:::
 
-<div style="text-align: center;">
+---
+
+## <span style="color: #555">✨ Contact & Projets</span>
+
+:::{.card}
+### Entrer en contact
+*Envie de collaborer ? De proposer une interview, une rencontre ou de participer à un salon ? Retrouvez toutes les informations de contact dans la section ci-dessous.*
+:::
+
+<div style="text-align: center; margin-top: 1rem;">
   <a href="mailto:mogadarr.contact@example.com" class="button">Contacter l’auteure</a>
 </div>
