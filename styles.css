@@ -251,3 +251,21 @@ a.social-link:hover {
   align-items: center;
   gap: 0.4rem;
 }
+
+
+/* Corrige la taille et l'alignement des icônes dans les liens sociaux */
+.list-group img {
+  width: 20px;
+  height: auto;
+  margin-left: 6px;
+  vertical-align: middle;
+  display: inline-block;
+  transform: translateY(-1px);
+}
+
+/* Facultatif : réduis encore un peu la taille si ça reste trop gros */
+@media (max-width: 576px) {
+  .list-group img {
+    width: 18px;
+  }
+}
