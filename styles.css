@@ -174,3 +174,50 @@ h2, h3 {
   padding-right: 12px;
 }
 
+
+/* === BOUTON CONTACT - STYLE ROMANCE MODERNE === */
+.center-button {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.center-button .button {
+  background-color: #e9c8c2; /* vieux rose doux */
+  color: #3d3d3d;
+  font-weight: 500;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 30px;
+  padding: 0.75rem 2rem;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: inline-block;
+}
+
+.center-button .button:hover {
+  background-color: #dbaaa2;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+
+.card-transparent {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0;
+}
+
+.card-transparent img {
+  margin-bottom: 1rem;
+}
+
+.card-transparent h3,
+.card-transparent h2,
+.card-transparent p {
+  color: #3d3d3d; /* Gris foncé doux pour contraste lisible */
+}
+
+
