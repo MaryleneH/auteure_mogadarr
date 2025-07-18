@@ -69,9 +69,9 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ## Suivre Mogadarr
 
-::: {#auteure-card .grid .card-grid .wider-cards columns="1"}
+::: {.grid .card-grid .wider-cards columns="1"}
 ::: card
-![](images/contacts.png){width="227"}
+![](images/contacts.png){width="274"}
 
 ### Restez connectés
 
@@ -87,7 +87,7 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ## Contact & Projets
 
-::: {#auteure-card .grid .card-grid .wider-cards columns="1"}
+::: {.grid .card-grid .wider-cards columns="1"}
 ::: card
 ![](images/icon-mail.png){width="110"}
 
