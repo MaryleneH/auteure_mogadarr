@@ -222,17 +222,21 @@ h2, h3 {
 
 
 /* Liens sociaux personnalisés */
+/* Liens sociaux style manuscrit romantique */
 a.social-link {
-  font-weight: 600;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #7a445c; /* vieux rose élégant */
   text-decoration: none;
-  color: #8a4b6f; /* vieux rose moderne */
   transition: color 0.3s ease;
 }
 
 a.social-link:hover {
-  color: #c06d94; /* un ton plus clair au survol */
+  color: #c06d94;
   text-decoration: underline;
 }
+
 
 .list-group {
   list-style: none;
