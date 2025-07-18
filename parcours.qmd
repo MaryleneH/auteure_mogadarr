@@ -3,14 +3,13 @@ title: "Parcours de lecture"
 format:
   html:
     theme: lux
-    css: styles_cards_modernes.css
+    css: styles.css
     page-layout: full
     toc: false
     smooth-scroll: true
     include-after-body: includes/footer.html
 ---
 
-# 📚 Parcours de lecture
 
 Vous ne savez pas par quel roman commencer ? Voici cinq chemins pour explorer l’univers de *Mogadarr*, selon vos envies et émotions du moment.
 
@@ -68,5 +67,5 @@ Plongez dans une fresque émotionnelle qui se construit tome après tome.
 
 ## 💡 Besoin d’un conseil personnalisé ?
 
-Écrivez à <a href="mailto:mogadarr.contact@example.com">mogadarr.contact@example.com</a> pour recevoir une suggestion adaptée à votre mood du moment.
+Écrivez à <a href="mailto:mogadarr@gmail.com">Mo Gadarr</a> pour recevoir une suggestion adaptée à votre mood du moment.
 

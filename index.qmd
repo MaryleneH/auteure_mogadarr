@@ -77,7 +77,7 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ::: list-group
 -   **Instagram** : <a href="https://instagram.com/mogadarr_romance" class="social-link">@mogadarr_romance</a>
--   **Goodreads** : <a href="https://goodreads.com" class="social-link">Mogadarr</a>
+-   **Goodreads** : <a href="https://www.goodreads.com/author/list/17710808.Mo_Gadarr" class="social-link">Mogadarr</a>
 -   **Newsletter** : Recevez les exclus et actus en avant-première
 :::
 :::
@@ -98,5 +98,5 @@ Envie de proposer une interview, une collaboration ou une rencontre littéraire�
 :::
 
 ::: center-button
-<a href="mailto:mogadarr.contact@example.com" class="button">Contacter l’auteure</a>
+<a href="mailto:mogadarr@gmail.com" class="button">Contacter l’auteure</a>
 :::
