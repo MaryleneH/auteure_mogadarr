@@ -23,12 +23,13 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 :::
 :::
 
-------------------------------------------------------------------------
+
 
 ## Qui est Mogadarr ?
 
 ::: {.grid .card-grid .wider-cards columns="1"}
-::: card
+::: {.card card-transparent}
+
 ![](images/icon-heart.png){width="85"}
 
 ### Une auteure au cœur vibrant ![](images/icon-heart.png){width="73"}
@@ -73,15 +74,15 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ::: {.grid .card-grid .wider-cards columns="1"}
 ::: card
-![Restez connectés](images/icon-social.png){width="68"}
+![](images/icon-social.png){width="68"}
 
 ### Restez connectés
 
-::: {.grid .list-icons}
+
 -   **Instagram** : [\@mogadarr_romance](https://instagram.com/mogadarr_romance) ![](images/icon-instagram.png){style="vertical-align: middle; margin-left: 8px;" width="24"}
 -   **Goodreads** : [Mogadarr](https://goodreads.com) ![](images/icon-goodreads.png){style="vertical-align: middle; margin-left: 8px;" width="22"}
 -   **Newsletter** : Recevez les exclus et actus en avant-première. ![](images/icon-newsletter.png){width="18" style="vertical-align: middle; margin-left: 8px;"}
-:::
+
 :::
 :::
 
@@ -91,7 +92,7 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ::: {.grid .card-grid .wider-cards columns="1"}
 ::: card
-![Entrer en contact](images/icon-mail.png){width="110"}
+![](images/icon-mail.png){width="110"}
 
 ### Entrer en contact
 
