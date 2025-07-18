@@ -221,32 +221,29 @@ h2, h3 {
 }
 
 
-ul.social-links {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0.5rem;
-}
-
-ul.social-links li {
-  margin-bottom: 0.6rem;
-  font-weight: 500;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-ul.social-links a {
-  text-decoration: none;
+/* Liens sociaux personnalisés */
+a.social-link {
   font-weight: 600;
-  color: #8a4b6f; /* Vieux rose moderne */
+  text-decoration: none;
+  color: #8a4b6f; /* vieux rose moderne */
+  transition: color 0.3s ease;
 }
 
-ul.social-links a:hover {
+a.social-link:hover {
+  color: #c06d94; /* un ton plus clair au survol */
   text-decoration: underline;
 }
 
-ul.social-links img {
-  vertical-align: middle;
-  margin-left: 4px;
-  margin-top: -2px;
+.list-group {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+  line-height: 1.8;
+}
+
+.list-group li {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
 }
