@@ -1,0 +1,72 @@
+---
+title: "Parcours de lecture"
+format:
+  html:
+    theme: lux
+    css: styles_cards_modernes.css
+    page-layout: full
+    toc: false
+    smooth-scroll: true
+    include-after-body: includes/footer.html
+---
+
+# 📚 Parcours de lecture
+
+Vous ne savez pas par quel roman commencer ? Voici cinq chemins pour explorer l’univers de *Mogadarr*, selon vos envies et émotions du moment.
+
+:::{.grid .card-grid .wider-cards columns=2}
+
+::: {.card}
+### 🌞 Vacances & Évasion
+
+- **Sur le sable**  
+- **Brûlure Secrète**
+
+Pour les lectrices en quête de soleil, de passion estivale et d’horizons brûlants.
+:::
+
+::: {.card}
+### 🎭 Grands Chemins de Vie
+
+- **My Sweet Baby‑sitter**  
+- **L'étreinte du hasard**
+
+Des récits où le quotidien devient extraordinaire, et où chaque rencontre bouleverse une trajectoire.
+:::
+
+::: {.card}
+### 🎄 Romances festives
+
+- **Believe In (Santa) Klaus**  
+- **Sous la pluie de tes promesses**
+
+Pour se laisser emporter par la magie de Noël ou le réconfort d’une seconde chance.
+:::
+
+::: {.card}
+### ✨ Rencontres inattendues
+
+- **L'étreinte du hasard**  
+- **Il est là ! (nouveauté)**
+
+Deux histoires imprévues qui font battre le cœur là où on ne l’attendait pas.
+:::
+
+::: {.card}
+### 📖 Saga & émotions durables
+
+- **Saga “BE” – Tome I à III**  
+- …et bientôt plus
+
+Plongez dans une fresque émotionnelle qui se construit tome après tome.
+
+:::
+
+:::
+
+---
+
+## 💡 Besoin d’un conseil personnalisé ?
+
+Écrivez à <a href="mailto:mogadarr.contact@example.com">mogadarr.contact@example.com</a> pour recevoir une suggestion adaptée à votre mood du moment.
+

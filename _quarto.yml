@@ -7,8 +7,11 @@ website:
     logo: images/icon-mogadarr-navbar.png
     height: 84px
     left:
+      - text: "      "
       - href: index.qmd
         text: Home
+      - href: parcours.qmd
+        text: "Votre parcours de lecture"
       - about.qmd
 
 format:
