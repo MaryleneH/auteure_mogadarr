@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "parcours.html",
+    "href": "parcours.html",
+    "title": "Parcours de lecture",
+    "section": "",
+    "text": "Vous ne savez pas par quel roman commencer ? Voici cinq chemins pour explorer l’univers de Mogadarr, selon vos envies et émotions du moment.\n\n\n\n\nSur le sable\n\nBrûlure Secrète\n\nPour les lectrices en quête de soleil, de passion estivale et d’horizons brûlants.\n\n\n\n\nMy Sweet Baby‑sitter\n\nL’étreinte du hasard\n\nDes récits où le quotidien devient extraordinaire, et où chaque rencontre bouleverse une trajectoire.\n\n\n\n\nBelieve In (Santa) Klaus\n\nSous la pluie de tes promesses\n\nPour se laisser emporter par la magie de Noël ou le réconfort d’une seconde chance.\n\n\n\n\nL’étreinte du hasard\n\nIl est là ! (nouveauté)\n\nDeux histoires imprévues qui font battre le cœur là où on ne l’attendait pas.\n\n\n\n\nSaga “BE” – Tome I à III\n\n…et bientôt plus\n\nPlongez dans une fresque émotionnelle qui se construit tome après tome.\n\n\n\n\n\nÉcrivez à mogadarr.contact@example.com pour recevoir une suggestion adaptée à votre mood du moment."
+  },
+  {
+    "objectID": "parcours.html#besoin-dun-conseil-personnalisé",
+    "href": "parcours.html#besoin-dun-conseil-personnalisé",
+    "title": "Parcours de lecture",
+    "section": "",
+    "text": "Écrivez à mogadarr.contact@example.com pour recevoir une suggestion adaptée à votre mood du moment."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mogadarr - Plume de New Romance",
@@ -33,12 +54,5 @@
     "title": "Mogadarr - Plume de New Romance",
     "section": "Contact & Projets",
     "text": "Contact & Projets\n\n\n\n\nEntrer en contact\nEnvie de proposer une interview, une collaboration ou une rencontre littéraire ? Mogadarr est disponible pour échanger avec ses lectrices, les professionnels et les curieux.\n\n\n\n\nContacter l’auteure"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
