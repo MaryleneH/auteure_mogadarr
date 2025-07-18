@@ -43,7 +43,7 @@ Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité
 
 ::: {.grid .card-grid .wider-cards columns="3"}
 ::: card
-![Brûlure Secrète](images/brulure_secrete.png){width="248"}
+![Brûlure Secrète](images/brulure_secrete.png){width="234"}
 
 ### Brûlure Secrète
 
@@ -51,7 +51,7 @@ Une journaliste ambitieuse. Un boxeur au passé trouble. Un amour incandescent e
 :::
 
 ::: card
-![Sous la pluie de tes promesses](images/pluie_promesses.png){width="246"}
+![Sous la pluie de tes promesses](images/pluie_promesses.png){width="234"}
 
 ### Sous la pluie de tes promesses
 
@@ -59,7 +59,7 @@ Deux ex, une dernière chance. Un récit poignant sur le pardon et les secondes 
 :::
 
 ::: card
-![L'étreinte du hasard](images/etreinte_hasard.jpg)
+![L'étreinte du hasard](images/etreinte_hasard.png){width="234"}
 
 ### L'étreinte du hasard
 
@@ -73,13 +73,15 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ::: {.grid .card-grid .wider-cards columns="1"}
 ::: card
-![Restez connectés](images/icon-social.png)
+![Restez connectés](images/icon-social.png){width="68"}
 
 ### Restez connectés
 
--   **Instagram** : [\@mogadarr_romance](https://instagram.com/mogadarr_romance)
--   **Goodreads** : [Mogadarr](https://goodreads.com)
--   **Newsletter** : Recevez les exclus et actus en avant-première.
+::: {.grid .list-icons}
+-   **Instagram** : [\@mogadarr_romance](https://instagram.com/mogadarr_romance) ![](images/icon-instagram.png){style="vertical-align: middle; margin-left: 8px;" width="24"}
+-   **Goodreads** : [Mogadarr](https://goodreads.com) ![](images/icon-goodreads.png){style="vertical-align: middle; margin-left: 8px;" width="22"}
+-   **Newsletter** : Recevez les exclus et actus en avant-première. ![](images/icon-newsletter.png){width="18" style="vertical-align: middle; margin-left: 8px;"}
+:::
 :::
 :::
 
@@ -89,7 +91,7 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ::: {.grid .card-grid .wider-cards columns="1"}
 ::: card
-![Entrer en contact](images/icon-mail.png)
+![Entrer en contact](images/icon-mail.png){width="110"}
 
 ### Entrer en contact
 
