@@ -202,22 +202,51 @@ h2, h3 {
   text-decoration: none;
 }
 
-
-.card-transparent {
-  background-color: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-  padding: 0;
+/* Transparence uniquement pour la première carte de la section auteure */
+#auteure-card .card {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0.5rem;
 }
 
-.card-transparent img {
-  margin-bottom: 1rem;
+#auteure-card .card h3,
+#auteure-card .card p {
+  color: #3d3d3d;
 }
 
-.card-transparent h3,
-.card-transparent h2,
-.card-transparent p {
-  color: #3d3d3d; /* Gris foncé doux pour contraste lisible */
+#auteure-card .card img {
+  width: 85px;
+  margin-bottom: 0.5rem;
 }
 
 
+ul.social-links {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+}
+
+ul.social-links li {
+  margin-bottom: 0.6rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+ul.social-links a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #8a4b6f; /* Vieux rose moderne */
+}
+
+ul.social-links a:hover {
+  text-decoration: underline;
+}
+
+ul.social-links img {
+  vertical-align: middle;
+  margin-left: 4px;
+  margin-top: -2px;
+}
