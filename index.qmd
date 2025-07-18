@@ -27,9 +27,8 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 
 ## Qui est Mogadarr ?
 
-::: {.grid .card-grid .wider-cards columns="1"}
-::: {.card card-transparent}
-
+::: {.grid .card-grid .wider-cards columns="1" #auteure-card}
+::: card 
 ![](images/icon-heart.png){width="85"}
 
 ### Une auteure au cœur vibrant ![](images/icon-heart.png){width="73"}
@@ -79,9 +78,11 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 ### Restez connectés
 
 
--   **Instagram** : [\@mogadarr_romance](https://instagram.com/mogadarr_romance) ![](images/icon-instagram.png){style="vertical-align: middle; margin-left: 8px;" width="24"}
--   **Goodreads** : [Mogadarr](https://goodreads.com) ![](images/icon-goodreads.png){style="vertical-align: middle; margin-left: 8px;" width="22"}
--   **Newsletter** : Recevez les exclus et actus en avant-première. ![](images/icon-newsletter.png){width="18" style="vertical-align: middle; margin-left: 8px;"}
+:::{.list-group}
+- **Instagram** : <a href="https://instagram.com/mogadarr_romance" class="social-link">@mogadarr_romance <img src="images/icon-instagram.png" alt="Instagram" width="20" style="vertical-align: middle; margin-left: 6px;"></a>
+- **Goodreads** : <a href="https://goodreads.com" class="social-link">Mogadarr <img src="images/icon-goodreads.png" alt="Goodreads" width="18" style="vertical-align: middle; margin-left: 6px;"></a>
+- **Newsletter** : Recevez les exclus et actus en avant-première <img src="images/icon-newsletter.png" alt="Newsletter" width="18" style="vertical-align: middle; margin-left: 6px;">
+:::
 
 :::
 :::
