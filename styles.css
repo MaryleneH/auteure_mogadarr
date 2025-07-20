@@ -313,7 +313,7 @@ a.social-link:hover {
 main a:not(.card a):not(.social-link) {
   color: #a0526d; /* Vieux rose */
   font-family: 'Barlow Semi Condensed', 'Segoe UI', sans-serif;
-  font-weight: 600; /* Plus gras */
+  font-weight: 650; /* Plus gras */
   text-decoration: none;
   transition: all 0.2s ease-in-out;
   border-bottom: 1px solid transparent;
@@ -321,5 +321,18 @@ main a:not(.card a):not(.social-link) {
 
 main a:not(.card a):not(.social-link):hover {
   border-bottom: 1px solid #a0526d;
+}
+
+
+a.social-link {
+  color: #b25e7d; /* Vieux rose */
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 650;
+  text-decoration: none;
+  transition: text-decoration 0.2s ease-in-out;
+}
+
+a.social-link:hover {
+  text-decoration: underline;
 }
 
