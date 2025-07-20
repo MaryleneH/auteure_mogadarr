@@ -13,7 +13,7 @@ format:
 
 <div class="banner-container">
   <img src="images/banner-mo-gadarr.png" class="banner-image" alt="Mo Gadarr" />
-  <div class="banner-text">Trouvez le roman qui fera écho à votre propre histoire.</div>
+  <div class="banner-text">...le roman qui fera écho à votre propre histoire.</div>
 </div>
 
 
