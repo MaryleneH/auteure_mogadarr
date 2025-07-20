@@ -11,7 +11,15 @@ format:
 ---
 
 
+<div class="banner-container">
+  <img src="images/banner-mo-gadarr.png" class="banner-image" alt="Mo Gadarr" />
+  <div class="banner-text">Explorer l’univers de <em>Mo Gadarr</em></div>
+</div>
+
+
+
 Vous ne savez pas par quel roman commencer ? Voici cinq chemins pour explorer l’univers de *Mogadarr*, selon vos envies et émotions du moment.
+
 
 :::{.grid .card-grid .wider-cards columns=2}
 
