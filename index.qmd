@@ -1,5 +1,5 @@
 ---
-title: "Mogadarr - Plume de New Romance"
+title: "Mo Gadarr - Plume de New Romance"
 format:
   html:
     theme: lux
@@ -13,7 +13,7 @@ format:
 
 ::: {.grid .mt-4 .mb-4 .align-items-center}
 ::: g-col-6
-# Bienvenue dans l'univers de *Mogadarr*
+# Bienvenue dans l'univers de *Mo Gadarr*
 
 Plongez dans un monde de passions, de regards brûlants et de destins entrelacés. Mogadarr, auteure française de **New Romance**, donne vie à des héros inoubliables et des histoires qui font battre le cœur.
 :::
@@ -23,7 +23,7 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 :::
 :::
 
-## Qui est Mogadarr ?
+## Qui est Mo Gadarr ?
 
 ::: {#auteure-card .grid .card-grid .wider-cards columns="1"}
 ::: card
@@ -31,7 +31,7 @@ Plongez dans un monde de passions, de regards brûlants et de destins entrelacé
 
 ### Une auteure au cœur vibrant ![](images/icon-heart.png){width="73"}
 
-Mogadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.
+Mo Gadarr captive ses lectrices par des romances où l’émotion, la sensualité et la tension entre les personnages dominent. Elle aime les silences éloquents, les gestes retenus, et les mots qui brûlent doucement la page.
 :::
 :::
 
@@ -67,7 +67,7 @@ Une rencontre dans un train. Une histoire entre douceur et tempête. Le destin f
 
 ------------------------------------------------------------------------
 
-## Suivre Mogadarr
+## Suivre Mo Gadarr
 
 ::: {.grid .card-grid .wider-cards columns="1"}
 ::: card
@@ -98,5 +98,5 @@ Envie de proposer une interview, une collaboration ou une rencontre littéraire�
 :::
 
 ::: center-button
-<a href="mailto:mogadarr@gmail.com" class="button">Contacter l’auteure</a>
+<a href="mailto:mogadarr@gmail.com" class="button">Contacter Mo Gadarr</a>
 :::
