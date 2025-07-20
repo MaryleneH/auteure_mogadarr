@@ -28,7 +28,7 @@ Vous ne savez pas par quel roman commencer ? Voici cinq chemins pour explorer 
 ::: {.card}
 ### 🌞 Vacances & Évasion
 
-- [**Sur le sable**](https://www.amazon.fr/Sur-sable-romance-Mo-Gadarr/dp/B0CCCHQ6B1){target="_blank" rel="noopener"}  
+- [**Sur le sable**](https://www.amazon.fr/Sur-sable-romance-Mo-Gadarr/dp/B0CCCHQ6B1){.social-link target="_blank" rel="noopener"}  
 - **Brûlure Secrète**
 
 Pour les lectrices en quête de soleil, de passion estivale et d’horizons brûlants.
@@ -37,7 +37,7 @@ Pour les lectrices en quête de soleil, de passion estivale et d’horizons brû
 ::: {.card}
 ### 🎭 Grands Chemins de Vie
 
-- [**My Sweet Baby‑sitter**](https://www.amazon.fr/My-sweet-baby-sitter-Mo-Gadarr-ebook/dp/B09DB6MN97/?_encoding=UTF8&pd_rd_w=S1lIF&content-id=amzn1.sym.932a75fd-61c8-4825-8faf-b975fdfddf4a&pf_rd_p=932a75fd-61c8-4825-8faf-b975fdfddf4a&pf_rd_r=261-7534509-3964946&pd_rd_wg=JJXH9&pd_rd_r=b6b24ada-3f3d-44dd-ba36-147aaeba75e0&ref_=aufs_ap_sc_dsk){target="_blank" rel="noopener"}  
+- [**My Sweet Baby‑sitter**](https://www.amazon.fr/My-sweet-baby-sitter-Mo-Gadarr-ebook/dp/B09DB6MN97/?_encoding=UTF8&pd_rd_w=S1lIF&content-id=amzn1.sym.932a75fd-61c8-4825-8faf-b975fdfddf4a&pf_rd_p=932a75fd-61c8-4825-8faf-b975fdfddf4a&pf_rd_r=261-7534509-3964946&pd_rd_wg=JJXH9&pd_rd_r=b6b24ada-3f3d-44dd-ba36-147aaeba75e0&ref_=aufs_ap_sc_dsk){.social-link target="_blank" rel="noopener"}  
 - **L'étreinte du hasard**
 
 Des récits où le quotidien devient extraordinaire, et où chaque rencontre bouleverse une trajectoire.
@@ -46,7 +46,7 @@ Des récits où le quotidien devient extraordinaire, et où chaque rencontre bou
 ::: {.card}
 ### 🎄 Romances festives
 
-- [**Believe In (Santa) Klaus**](https://www.amazon.fr/Believe-Santa-Klaus-Mo-Gadarr/dp/B09NRG8CM5){target="_blank" rel="noopener"}  
+- [**Believe In (Santa) Klaus**](https://www.amazon.fr/Believe-Santa-Klaus-Mo-Gadarr/dp/B09NRG8CM5){.social-link target="_blank" rel="noopener"}  
 - **Sous la pluie de tes promesses**
 
 Pour se laisser emporter par la magie de Noël ou le réconfort d’une seconde chance.
