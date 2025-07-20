@@ -280,7 +280,7 @@ a.social-link:hover {
 
 .banner-image {
   width: 100%;
-  max-height: 290px; /* 🔽 Hauteur réduite */
+  max-height: 390px; /* 🔽 Hauteur réduite */
   object-fit: cover;
   display: block;
   border-radius: 12px;
