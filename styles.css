@@ -224,7 +224,7 @@ h2, h3 {
 /* Liens sociaux personnalisés */
 /* Liens sociaux style manuscrit romantique */
 a.social-link {
-  font-family: 'Dancing Script', cursive;
+  font-family: /*'Dancing Script',*/ cursive;
   font-weight: 400;
   font-size: 1.1rem;
   color: #7a445c; /* vieux rose élégant */
@@ -297,7 +297,7 @@ a.social-link:hover {
   padding: 0.6rem 1rem;
   border-radius: 8px;
   font-size: 1.3rem;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: /*'Cormorant Garamond', serif*/ cursive;
   color: #5e2c45; /* Vieux rose */
   font-style: italic;
   max-width: 60%;
