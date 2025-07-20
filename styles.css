@@ -270,29 +270,32 @@ a.social-link:hover {
   }
 }
 
-
-
 .banner-container {
   position: relative;
-  width: 100%;
+  text-align: center;
   margin-bottom: 2rem;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .banner-image {
   width: 100%;
-  height: auto;
+  max-height: 220px; /* 🔽 Hauteur réduite */
+  object-fit: cover;
+  display: block;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 .banner-text {
   position: absolute;
-  bottom: 1.5rem;
-  right: 2rem;
-  font-size: 2rem;
-  color: #7d4a58;
-  font-family: 'Caveat', cursive; /* ou autre police romantique */
-  background-color: rgba(255,255,255,0.6);
-  padding: 0.5rem 1rem;
+  bottom: 12px;
+  right: 20px;
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 0.6rem 1rem;
   border-radius: 8px;
+  font-size: 1.2rem;
+  font-family: 'Cormorant Garamond', serif;
+  color: #5e2c45; /* Vieux rose */
+  font-style: italic;
 }
