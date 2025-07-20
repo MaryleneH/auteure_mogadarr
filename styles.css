@@ -300,7 +300,7 @@ a.social-link:hover {
   padding: 0.6rem 1rem;
   border-radius: 8px;
   font-size: 1.3rem;
-  font-family: /*'Cormorant Garamond', serif*/ cursive;
+  font-family: 'Barlow Semi Condensed', 'Segoe UI', sans-serif;;
   color: #5e2c45; /* Vieux rose */
   font-style: italic;
   max-width: 60%;
