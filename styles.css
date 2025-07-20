@@ -326,7 +326,7 @@ main a:not(.card a):not(.social-link):hover {
 
 a.social-link {
   color: #b25e7d; /* Vieux rose */
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Barlow Semi Condensed', 'Segoe UI', sans-serif;
   font-weight: 650;
   text-decoration: none;
   transition: text-decoration 0.2s ease-in-out;
